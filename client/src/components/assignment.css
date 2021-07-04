@@ -1,0 +1,51 @@
+.label2 {
+    padding-left: 20pt;
+    font-family: Arial;
+    font-size: 16pt;
+    font-weight: bold;
+}
+
+.lable3 {
+    padding-left: 20pt;
+    font-family: Arial;
+    font-size: 14pt;
+    font-weight: bold;
+}
+
+p {
+    padding-left: 20pt;
+    font-size: 14pt;
+    font-family: Arial;
+}
+
+.newleft {
+    padding-left: 20pt;
+}
+
+.newleft2 {
+    float:left;
+    padding-left: 200pt;
+    padding-right : 200px
+  }
+
+.newleft3 {
+  float:left;
+  padding-left: 310pt;
+  padding-right : 200px
+}
+
+.table2 {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+.td, .th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+.tr:nth-child(even) {
+    background-color: #dddddd;
+  }
